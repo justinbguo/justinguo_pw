@@ -1,5 +1,6 @@
 {
   "name": "justinguo_pw",
+  "homepage": "https://github.com/justinbguo/justinguo_pw",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,6 +10,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.12.0",
+    "react-router-dom": "^6.21.0",
     "react-scripts": "5.0.1",
     "react-social-icons": "^6.7.0",
     "react-typed": "^1.2.0",
@@ -41,6 +43,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "autoprefixer": "^10.4.16",
     "gh-pages": "^6.1.0",
     "postcss-cli": "^11.0.0",

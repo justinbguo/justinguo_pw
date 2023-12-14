@@ -6,11 +6,12 @@ import { SocialIcon } from 'react-social-icons';
 import { FaHeadSideVirus } from "react-icons/fa";
 import { FaBriefcase } from "react-icons/fa";
 import ReactTyped from "react-typed";
-
+import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 
 function App() {
   return (
+    <Router>
     <div className="App">
       <header className="App-header">
       <h1 className="name font-semibold text-[50px]">
@@ -101,6 +102,7 @@ function App() {
         </div>
  
     </div>
+    </Router>
   );
 }
 
