@@ -56,21 +56,26 @@ function App() {
       </div>
       <h2 className='mt-10 text-white text-[25px]'> I'm currently{" "}
         <ReactTyped
-          strings={["building a consumer social app", "helping a music artist with strategy","thinking....."]}
+          strings={["reminding you to stay hydrated.", "telling you to drink water.", "seeing that you didn't drink your water and would like to RE-EMPHASIZE the importance of hydration.", "giving up on this reminder.", "trying again!" ]}
           typeSpeed={80}
           loop
           backSpeed={30}
         />
         </h2>
-        <div className='mt-6 w-1/4 bg-[#287a2a] rounded-full flex justify-center items-center mb-6'>
-          <h1 className=' text-white text-[30px] font-semibold '> <u className='underline underline-offset-4'>jbguo@umich.edu</u></h1>
+        <div className='mt-6 w-1/6 bg-[#287a2a] rounded-full flex justify-center items-center mb-6'>
+          <h1 className=' text-white text-[20px] font-semibold  hover:transform hover:scale-110 transition-transform duration-300 ease-in-out '> <u className='underline underline-offset-4 '>jbguo@umich.edu</u></h1>
         </div>
         {/* <h1 className='mt-10 text-white text-[30px] font-semibold'>Professional</h1> */}
-        <div className='mt-2 w-1/2  border-2 border-white bg-[#0a250a] mb-6'>
+        <div className='mt-2 w-[700px]  border-2 border-white bg-[#0a250a] mb-6'>
           <p className='text-white font-normal p-3 text-start'>
             <u className='underline underline-offset-4 font-bold'>Previous internships</u><br></br>
-             <b>Unilever - Product Operations Intern</b> (selling Hellmann's mayonnaise to enterprises) <br></br> <b>Snack Break - PM intern</b> (developing product strategy for a new consumer social app). <br/><br/>
+             Unilever - Product Operations Intern (selling Hellmann's mayonnaise to enterprises) <br></br> 
+             Snack Break - PM intern (developing product strategy for a new consumer social app). <br/><br/>
 
+
+             <u className='underline underline-offset-4 font-bold'>Present work</u><br></br> 
+            <a href='https://joinpush.app/'><b className=''>Push - Product Manager, Co-Founder </b> (Social App) </a><br></br> 
+            <a href='https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW?si=SvzdpCwETmG6W8Rgx9GSHg&nd=1'><b className=''>Habe - Growth, Strategy</b> (Indie Artist) <br/><br/></a>
             <u className='underline underline-offset-4 font-bold'>Past work</u><br></br> 
             I've founded a YouTube channel with over 8M impressions, founded a direct-to-consumer online store that sold electric massage balls, and worked as a freelance video editor. <br/><br/>
 
@@ -90,7 +95,7 @@ function App() {
 
         {/* <h1 className='mt-10 text-white text-[30px] font-semibold'>Personal</h1> */}
           
-        <div className='w-1/2  border-2 border-white bg-[#0a250a]'>
+        <div className='w-[700px] border-2 border-white bg-[#0a250a]'>
           <p className='text-white font-normal p-3 text-start'>
             <u className='underline underline-offset-4 font-bold'>interests</u><br></br> soccer, philosophy, humor, fitness, music, chess, books (#nerd)  <br/>
 
