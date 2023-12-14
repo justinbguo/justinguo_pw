@@ -10,7 +10,8 @@
 
 # production
 /build
-
+# .gitignore
+/build
 # misc
 .DS_Store
 .env.local
