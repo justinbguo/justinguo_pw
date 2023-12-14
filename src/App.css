@@ -1,0 +1,21 @@
+.App {
+  height: 200vh;;
+  /* background-image: linear-gradient(43deg, #11622f 0%, #256f2b 46%, #0a501e 100%); */
+  background-color: rgb(31, 31, 31);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.App-header {
+  margin-top: 100px;
+  /* background-color: rgb(13, 64, 28); */
+  min-height: 5vh;
+  border-radius: 100px;
+  /* border-color: rgb(32, 142, 107); */
+  /* border-width: 1px; */
+  width: 100%;
+  justify-content: center;
+}
