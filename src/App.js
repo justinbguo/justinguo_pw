@@ -10,7 +10,6 @@ import { FaBookOpen } from "react-icons/fa6";
 import { FaBriefcase } from "react-icons/fa";
 import { FaSpotify } from "react-icons/fa";
 import { FaPenAlt } from "react-icons/fa";
-import './song.mp3';
 import ReactTyped from "react-typed";
 import { FaCirclePlay } from "react-icons/fa6";
 import { FaLinkedinIn } from "react-icons/fa";
