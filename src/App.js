@@ -83,7 +83,7 @@ function App() {
               <p className='hover:transform hover:scale-105 transition-transform duration-300 protate-3d mb-[60px] hover:text-red-400'>
                 current<br/><br/>
               </p>
-              <p className='hover:transform hover:scale-105 transition-transform duration-300 protate-3d mb-[112px] hover:text-orange-300'>
+              <p className='hover:transform hover:scale-105 transition-transform duration-300 protate-3d mb-[60px] hover:text-orange-300'>
                 personal<br/><br/>
               </p>
               <p className='hover:transform hover:scale-105 transition-transform duration-300 protate-3d mb-12 hover:text-purple-300'>
@@ -144,7 +144,7 @@ function App() {
               <br/><br/>
               as a wannabe founder, i love side projects. i'm currently working to build a consumer social app <u className='bold text-white-700 hover:text-green-600 transition-colors duration-500'><a  target="_blank" className='font-bold'  href='https://joinpush.app/' >push</a></u> with two engineers and propel an amazing artist <u className='bold bold text-white-700 hover:text-orange-600 transition-colors duration-500'><a  target="_blank" className='font-bold' href='https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW?si=bb8cc2b0bc0c4f26'>habe</a></u> to Spotify stardom. 
               <br/><br/>huge fan of soccer, music, and esoteric shades of green. 
-              <br/>huge hater of gossip, raisins, and too much walking. <br/>
+              <br/>huge hater of gossip, raisins, and too much walking. 
 
               <br/> if you're in a good mood, read my 2nd brain or my writing below
               <br></br><br></br> to say hi and/or employ me → <a href="mailto:jbguo@umich.edu" class="email-button" className='  underline-offset-1-bold text-[18px] hover:text-green-600 transition-colors duration-500'>jbguo@umich.edu</a>
