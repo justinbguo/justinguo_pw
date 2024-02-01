@@ -140,14 +140,14 @@ function App() {
               hey! i study <u>business & cs</u> at the <u>university of michigan ann-arbor</u>. my goal is to sharpen my individuality and then leverage it to create something positive to give back to the world.
               <br/><br/>
               my professional focus lies in <u className=' underline-offset-2'>entrepreneurship</u> and <u>product management</u> with emphasis in consumer-facing software.<br></br><br></br> 
-              leadership, business acumen, product sense, intuition, critical thinking, resourcefulness, curiosity, positive attitude, cleverness. 
+              leadership, business acumen, product sense, intuition, critical thinking, quality output, curiosity, articulation, cleverness. 
               <br/><br/>
-              as a wannabe founder, i love side projects. i'm currently working to build a consumer social app <u className='bold text-white-700 hover:text-green-600 transition-colors duration-500'><a  target="_blank" className='font-bold'  href='https://joinpush.app/' >push</a></u> with two engineers and propel an amazing artist <u className='bold bold text-white-700 hover:text-orange-600 transition-colors duration-500'><a  target="_blank" className='font-bold' href='https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW?si=bb8cc2b0bc0c4f26'>habe</a></u> to Spotify stardom. 
-              <br/><br/>huge fan of soccer, music, and esoteric shades of green. 
-              <br/>huge hater of gossip, raisins, and too much walking. 
+              as a wannabe founder, i love side projects. i'm currently working to build a consumer social app <u className='bold text-white-700 hover:text-green-600 transition-colors duration-500'><a  target="_blank" className='font-bold'  href='https://joinpush.app/' >push</a></u> with two engineers and propel an amazing artist <u className='bold bold text-white-700 hover:text-orange-400 transition-colors duration-500'><a  target="_blank" className='font-bold' href='https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW?si=bb8cc2b0bc0c4f26'>habe</a></u> to spotify stardom. 
+              <br/><br/>huge fan of soccer, music, and very specific shades of green. 
+              <br/>huge hater of gossip, raisins, and excessive walking. 
 
               <br/> if you're in a good mood, read my 2nd brain or my writing below
-              <br></br><br></br> to say hi and/or employ me → <a href="mailto:jbguo@umich.edu" class="email-button" className='  underline-offset-1-bold text-[18px] hover:text-green-600 transition-colors duration-500'>jbguo@umich.edu</a>
+              <br></br><br></br> to say hi, employ me, or send hate mail → <a href="mailto:jbguo@umich.edu" class="email-button" className='  underline-offset-1-bold text-[18px] hover:text-green-600 transition-colors duration-500'>jbguo@umich.edu</a>
 
 
               
@@ -162,8 +162,8 @@ function App() {
 
 <div className='flex flex-row mt-3 justify-between w-[150px] ml-3'>
 <a href='https://www.linkedin.com/in/justinbguo/' target="_blank">
-    <div className='items-center justify-evenly flex rounded-sm shadow-xlg hover:bg-[#0B5FB6] duration-500 p-1 mb-12 ' alt='justin guo'>
-          <FaLinkedinIn className="h-5 w-5 text-white transition-colors duration-200 " />
+    <div className='items-center justify-evenly flex rounded-sm shadow-xlgduration-500 p-1 mb-12 ' alt='justin guo'>
+          <FaLinkedinIn className="h-5 w-5 text-white hover:text-[#1BD760] transition-colors duration-200 " />
           </div>
           </a>
           <a href='https://open.spotify.com/user/dlz0ay7yvvu5nrmmfjd4nuhoe?si=022b198c7c1842e5' target="_blank">
@@ -173,20 +173,20 @@ function App() {
           </a>
           <a href='https://docs.google.com/document/d/10l9hb2p25nOWMVBlgW55dBj3zzCRoMMdvr5U5-LTa5o/edit?usp=sharing 'target="_blank" >
           <div className='items-center justify-evenly flex rounded-[1000px] shadow-xlg mt-1 ml-3' alt='justin guo'>
-            <FaBriefcase className="h-5 w-5 text-white hover:text-[#b6997e] transition-colors duration-200" />
+            <FaBriefcase className="h-5 w-5 text-white hover:text-[#1BD760] transition-colors duration-200" />
           </div>
           </a>
 
           <a href='https://docs.google.com/document/d/1qZzbAl-Us3-3VSjtv-62VEfONhlgbhsXO-sfxj05AkU/edit ' target="_blank">
           <div className='items-center justify-evenly flex rounded-[1000px] shadow-xlg mt-1 ml-3' alt='justin guo'>
-            <FaBookOpen className="h-5 w-5 text-white hover:text-orange-300 transition-colors duration-200"  />
+            <FaBookOpen className="h-5 w-5 text-white hover:text-[#1BD760] transition-colors duration-200"  />
           </div>
             </a>
 
 
           <a href='https://medium.com/@guodini' target="_blank">
           <div className='items-center justify-evenly flex rounded-[1000px] shadow-xlg mt-1 ml-3' alt='justin guo'>
-            <FaPenAlt className="h-5 w-5 text-white hover:text-green-700 transition-colors duration-200"  />
+            <FaPenAlt className="h-5 w-5 text-white hover:text-[#1BD760] transition-colors duration-200"  />
           </div>
           </a>
   </div>
