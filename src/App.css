@@ -7,10 +7,9 @@
   align-items: center;
 }
 
-
 .App-header {
   
-  margin-top: 20px;
+  margin-top: 30px;
   /* background-color: rgb(13, 64, 28); */
   min-height: 5vh;
   border-radius: 100px;
@@ -19,3 +18,28 @@
   width: 100%;
   justify-content: center;
 }
+
+/* Custom CSS */
+.rotate-3d {
+  transition: transform 1.2s;
+  transform-style: preserve-3d;
+  perspective: 1000px;
+}
+
+.rotate-3d:hover {
+  transform: rotateY(360deg);
+}
+/* Custom CSS */
+
+
+/* Custom CSS */
+.protate-3d {
+  transition: transform 3s;
+  transform-style: preserve-3d;
+  perspective: 1000px;
+}
+
+.protate-3d:hover {
+  transform: rotateY(720deg);
+}
+/* Custom CSS */
