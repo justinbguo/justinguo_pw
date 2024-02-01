@@ -1,6 +1,6 @@
 .App {
   height: 100vh;
-  background: linear-gradient(to top, #134513, #0A250A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to top, #124212, #0A250A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -9,7 +9,7 @@
 
 .App-header {
   
-  margin-top: 30px;
+  margin-top: 25px;
   /* background-color: rgb(13, 64, 28); */
   min-height: 5vh;
   border-radius: 100px;

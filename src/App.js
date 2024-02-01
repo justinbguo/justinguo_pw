@@ -78,12 +78,12 @@ function App() {
                 career<br/><br/>
               </p>
               <p className='hover:transform hover:scale-105 transition-transform duration-300  protate-3d mb-8 hover:text-yellow-200 '>
-                skillset<br/><br/>
+                strengths<br/><br/>
               </p>
               <p className='hover:transform hover:scale-105 transition-transform duration-300 protate-3d mb-[60px] hover:text-red-400'>
                 current<br/><br/>
               </p>
-              <p className='hover:transform hover:scale-105 transition-transform duration-300 protate-3d mb-[60px] hover:text-orange-300'>
+              <p className='hover:transform hover:scale-105 transition-transform duration-300 protate-3d mb-[112px] hover:text-orange-300'>
                 personal<br/><br/>
               </p>
               <p className='hover:transform hover:scale-105 transition-transform duration-300 protate-3d mb-12 hover:text-purple-300'>
@@ -103,7 +103,7 @@ function App() {
           <p className='text-white tracking-wide text-center text-[30px] font-bold mt-2'>
           <p className='title underline-animation absolute ml-3'>justin guo • 
         <ReactTyped className='ml-2'
-          strings={["product manager", "founder", "father of three", "kidding", "writer", "athlete"]}
+          strings={["product manager", "founder", "father of three", "kidding", "think different","writer", "athlete"]}
           typeSpeed={80}
           loop
           backSpeed={30}
@@ -132,19 +132,22 @@ function App() {
         </div> */}
       </div>
 
-        <div className='w-[500px]'>
+        <div className='w-[590px]'>
           
           <p className='text-gray-200 font-normal tracking-wide p-3 text-start text-[18px]'>
     
             <p>
-              hey! i study <u>business & cs</u> at the <u>university of michigan ann-arbor</u>. i want to leverage my individuality to create something special & share it with the world.
+              hey! i study <u>business & cs</u> at the <u>university of michigan ann-arbor</u>. my goal is to sharpen my individuality and then leverage it to create something positive to give back to the world.
               <br/><br/>
-              my thing is <u>product management</u>, with specialization in <u>consumer-facing technology</u>.<br></br><br></br> i pride myself on my <u>business/product intuition, critical thinking, positive attitude, & willingness to learn</u>. 
+              my professional focus lies in <u className=' underline-offset-2'>entrepreneurship</u> and <u>product management</u> with emphasis in consumer-facing software.<br></br><br></br> 
+              leadership, business acumen, product sense, intuition, critical thinking, resourcefulness, curiosity, positive attitude, cleverness. 
               <br/><br/>
-              as a wannabe founder, i love passion projects. i'm currently working on a consumer social app <u className='bold text-white-700 hover:text-green-600 transition-colors duration-500'><a className='font-bold' href='https://joinpush.app/'>Push</a></u> & growth with an awesome artist <u className='bold bold text-white-700 hover:text-orange-600 transition-colors duration-500'><a className='font-bold' href='https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW?si=bb8cc2b0bc0c4f26'>Habe</a></u>. 
-              <br/><br/>i love soccer, music, and a very specific shade of green. 
-              <br/> you can check out my "second brain" (little book) & my less-than-mediocre writing (little pencil) below for more!
-              <br></br><br></br> to say hi AND/OR employ me → <a href="mailto:jbguo@umich.edu" class="email-button" className='  underline-offset-1-bold text-[18px] hover:text-green-600 transition-colors duration-500'>jbguo@umich.edu</a>
+              as a wannabe founder, i love side projects. i'm currently working to build a consumer social app <u className='bold text-white-700 hover:text-green-600 transition-colors duration-500'><a  target="_blank" className='font-bold'  href='https://joinpush.app/' >push</a></u> with two engineers and propel an amazing artist <u className='bold bold text-white-700 hover:text-orange-600 transition-colors duration-500'><a  target="_blank" className='font-bold' href='https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW?si=bb8cc2b0bc0c4f26'>habe</a></u> to Spotify stardom. 
+              <br/><br/>huge fan of soccer, music, and esoteric shades of green. 
+              <br/>huge hater of gossip, raisins, and too much walking. <br/>
+
+              <br/> if you're in a good mood, read my 2nd brain or my writing below
+              <br></br><br></br> to say hi and/or employ me → <a href="mailto:jbguo@umich.edu" class="email-button" className='  underline-offset-1-bold text-[18px] hover:text-green-600 transition-colors duration-500'>jbguo@umich.edu</a>
 
 
               
