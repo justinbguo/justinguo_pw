@@ -24,7 +24,6 @@ function App() {
     <div className="App overflow-clip">
       <header className="App-header ">
       <h1 className="name font-bold text-[62px] ">
-
         </h1>
       </header>
       
@@ -67,29 +66,10 @@ function App() {
         
 
         {/* <h1 className='mt-10 text-white text-[30px] font-semibold'>Personal</h1> */}
-        <div className='flex flex-row mr-20'>
-        <div className='w-[120px] border-1 border-white  rounded-lg mr-3 justify-evenly'>
+        <div className='flex flex-row mr-[100px]'>
+        <div className='w-[120px] border-1 border-white  rounded-lg justify-evenly'>
           <p className='text-white font-normal p-3 text-end'>
-            <p className='font-bold'>
-              <p className='hover:transform hover:scale-105 transition-transform duration-300 protate-3d mb-[60px] hover:text-green-200 mt-[58px] '>
-                intro <br/><br/>
-              </p>
-              <p className='hover:transform hover:scale-105 transition-transform duration-300 mb-8 protate-3d  hover:text-blue-300'>
-                career<br/><br/>
-              </p>
-              <p className='hover:transform hover:scale-105 transition-transform duration-300  protate-3d mb-8 hover:text-yellow-200 '>
-                strengths<br/><br/>
-              </p>
-              <p className='hover:transform hover:scale-105 transition-transform duration-300 protate-3d mb-[60px] hover:text-red-400'>
-                current<br/><br/>
-              </p>
-              <p className='hover:transform hover:scale-105 transition-transform duration-300 protate-3d mb-[60px] hover:text-orange-300'>
-                personal<br/><br/>
-              </p>
-              <p className='hover:transform hover:scale-105 transition-transform duration-300 protate-3d mb-12 hover:text-purple-300'>
-                contact<br/><br/><br/>
-              </p>
-            </p>
+         
         </p>
 
 
@@ -100,10 +80,10 @@ function App() {
           <div>
       
 
-          <p className='text-white tracking-wide text-center text-[30px] font-bold mt-2'>
-          <p className='title underline-animation absolute ml-3'>justin guo • 
-        <ReactTyped className='ml-2'
-          strings={["product manager", "founder", "father of three", "kidding", "think different","writer", "athlete"]}
+          <p className='text-white tracking-wide text-center text-[30px] font-bold mt-2 '>
+          <p className='title underline-animation absolute ml-3 italic'>justin guo • 
+        <ReactTyped className='ml-2 font-normal'
+          strings={['product manager', "founder", "father of three", "kidding", "","writer", "athlete"]}
           typeSpeed={80}
           loop
           backSpeed={30}
@@ -132,22 +112,21 @@ function App() {
         </div> */}
       </div>
 
-        <div className='w-[590px]'>
+        <div className='w-[600px]'>
           
-          <p className='text-gray-200 font-normal tracking-wide p-3 text-start text-[18px]'>
+          <p className='text-gray-200 font-normal p-3 text-start text-[17px]'>
     
             <p>
-              hey! i study <u>business & cs</u> at the <u>university of michigan ann-arbor</u>. my goal is to sharpen my individuality and then leverage it to create something positive to give back to the world.
+              hey! i study <b>business & cs</b> at the <b>university of michigan</b>. my goal is to sharpen my individuality and then leverage it to create something positive to give back to the world.
               <br/><br/>
-              my professional focus lies in <u className=' underline-offset-2'>entrepreneurship</u> and <u>product management</u> with emphasis in consumer-facing software.<br></br><br></br> 
-              leadership, business acumen, product sense, intuition, critical thinking, quality output, curiosity, articulation, cleverness. 
+              my professional focus lies in <b className=' bold'>entrepreneurship</b> and <b>product management</b> with emphasis in consumer-facing software. i've previously interned at pre-seed startups and fortune 500 companies.<br></br><br></br> 
+              my strengths are leadership, business acumen, intuition, creativity, critical thinking, clever problem-solving, and high-quality output. 
               <br/><br/>
-              as a wannabe founder, i love side projects. i'm currently working to build a consumer social app <u className='bold text-white-700 hover:text-green-600 transition-colors duration-500'><a  target="_blank" className='font-bold'  href='https://joinpush.app/' >push</a></u> with two engineers and propel an amazing artist <u className='bold bold text-white-700 hover:text-orange-400 transition-colors duration-500'><a  target="_blank" className='font-bold' href='https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW?si=bb8cc2b0bc0c4f26'>habe</a></u> to spotify stardom. 
-              <br/><br/>huge fan of soccer, music, and very specific shades of green. 
-              <br/>huge hater of gossip, raisins, and excessive walking. 
+              i'm currently working to build a consumer social app <u className='bold text-white-700 hover:text-green-600 transition-colors duration-500'><a  target="_blank" className='font-bold'  href='https://joinpush.app/' >push</a></u> with two engineers and propel an amazing artist <u className='bold bold text-white-700 hover:text-orange-400 transition-colors duration-500'><a  target="_blank" className='font-bold' href='https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW?si=bb8cc2b0bc0c4f26'>habe</a></u> to spotify stardom. 
+              <br/><br/>huge fan of soccer, good music, green. 
 
-              <br/> if you're in a good mood, read my 2nd brain or my writing below
               <br></br><br></br> to say hi, employ me, or send hate mail → <a href="mailto:jbguo@umich.edu" class="email-button" className='  underline-offset-1-bold text-[18px] hover:text-green-600 transition-colors duration-500'>jbguo@umich.edu</a>
+
 
 
               
@@ -158,7 +137,7 @@ function App() {
         </p>
         
         </div>
-        <div className='h-1 w-11/12 bg-white ml-3 rounded-lg'></div>
+        <div className='h-[1px] w-11/12 bg-white ml-3 rounded-lg'></div>
 
 <div className='flex flex-row mt-3 justify-between w-[150px] ml-3'>
 <a href='https://www.linkedin.com/in/justinbguo/' target="_blank">
